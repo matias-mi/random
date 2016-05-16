@@ -1,0 +1,2 @@
+# random
+blog - /dev/random
