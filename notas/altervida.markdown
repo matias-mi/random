@@ -1,5 +1,15 @@
+# Altervida
 
-# 2016-05-16
+## 2016-05-16
+
+Creo que el personaje principal se va a llamar Samuel. Es un nombre que funciona
+en varios idiomas y además puedo jugar con la contradicción de que es un nombre
+bíblico, y Samuel no quiere saber nada con religiones. Su nombre es un
+accidente, sus padres ni siquiera pensaron en la biblia para darle el nombre,
+simplemente les gustó. Las religiones les son indiferentes, pero está harto de
+los comentarios bíblicos sobre su nombre. Todavía no tengo un apellido.
+
+---
 
 Hoy encontré a *el cartero*. Venía caminando por Florida y vi a un hombre bajito
 y muy obeso. Tenía la cabeza grande y el pelo negro risado más aplastado que
