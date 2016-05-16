@@ -2,6 +2,21 @@
 
 ## 2016-05-16
 
+Samuel es un personaje principalmente inspirado en lo que me pasa en la vida
+cotidiana. Pero como lo que me pasa, y también en cierta medida lo que soy (y
+somos) está vinculado con las relaciones que tenemos, Samuel también tiene cosas
+de todas las personas con las que interactúo y de las que explícitamente les
+pido ayuda. Voy a tratar de distinguir de dónde sale cada aspecto de Samuel y de
+los otros personajes, pero a la larga, todo va a estar mezclado de tal forma que
+ni yo lo pueda distinguir. Es la magia del arte.
+
+Dicho esto... Samuel odia el olor a *tutifrutti* que escupen las tiendas de
+ropa. Es un olor fuerte, penetrante, peor que la grasa de las cadenas de comida
+rápida. El olor envuelve el espacio público y cualquiera que circule por ese
+sitio debe introducirlo en su cuerpo. Samuel odia muchas cosas.
+
+---
+
 Hablando con @mvicent llegamos a una historia más o menos decente sobre el
 nombre de Samuel. Me hizo una muy buena observación para escribir: "nunca dejes
 cosas sin explicar, sino se generan plot holes". Así que juntos le dimos un
