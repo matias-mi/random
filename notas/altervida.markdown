@@ -2,6 +2,23 @@
 
 ## 2016-05-16
 
+Hablando con @mvicent llegamos a una historia más o menos decente sobre el
+nombre de Samuel. Me hizo una muy buena observación para escribir: "nunca dejes
+cosas sin explicar, sino se generan plot holes". Así que juntos le dimos un
+sentido al nombre de Samuel. Quedó algo así:
+
+Samuel XXXXXXX (todavía no hay apellido, se acepta ayuda), un periodista
+mediocre que trabaja en la redacción de un diario digital. Se burlaron de él
+toda la vida por su nombre que parece judío, pero no tiene ningún vínculo con
+ninguna religión. Los padres le pusieron ese nombre para innovar, porque en su
+familia todos los hombres tenían Samuel como segundo nombre, que era el nombre
+de un tío lejano que conoció al zar. Cada vez que Samuel pregunta *por qué su
+tío conoció al zar*, al menos para tener una historia que contarle a sus
+enemigos silenciosos, los distintos miembros de la familia responden con
+evasivas e historias muy generales. "Por algo de la guerra", dicen.
+
+---
+
 Creo que el personaje principal se va a llamar Samuel. Es un nombre que funciona
 en varios idiomas y además puedo jugar con la contradicción de que es un nombre
 bíblico, y Samuel no quiere saber nada con religiones. Su nombre es un
