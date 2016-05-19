@@ -1,5 +1,38 @@
 # Altervida
 
+## 2016-05-19
+
+Samuel va a estar inspirado, definitivamente, en un profesor. Es un hombre de
+estatura media, esbelto y parece una mezcla de rockstar y modelo. Zapatillas de
+lona blancas (sucias), pantalón de jean, saco escote en V con rombos sobre
+remera blanca, campera tipo náutica color verde cieno. Usa una barba candado muy
+bien cuidada y recortada que se une con las patillas. Tiene ojos chicos,
+hundidos y muy ojerosos; cejas gruesas y cortas (¿se las depila?). Gestualiza
+mucho con las manos, y cuando habla enfatiza las palabras que quiere destacar
+subiendo el tono de forma muy extraña. Es pesimista -cita filósofos pesimistas
+todo el tiempo- y un poco melodramático. Vive en un estado de sufrimiento y
+contradicciones internas constantes. Un día piensa que algo es bueno, otro día
+sufre por haberse equivocado y busca otra salida intelectual que lo satisfaga
+temporalmente, aunque en el momento lo siente como grandes epifanías. No concibe
+la vida sin sufrimiento, para él lo mejor a lo que se puede llegar es a la
+suspención temporal del sufrimiento. Construye una leyenda de sí mismo. Tiene un
+solo amigo que ve poco, y se lamenta por tener tan pocas relaciones: "forever
+alone". Es contradictorio con su trabajo de periodista, ya que sí o sí tiene que
+interactuar con personas todo el tiempo. Pero Samuel lo evita, toda su carrera
+trató de evitar el contacto con las personas y reemplazarlo por información y
+datos. En lugar de "las personas son parte de mi vida" él diría "los datos son
+parte de mi vida". Para Samuel, las personas son datos. Samuel es soltero porque
+no cree en el amor. Tuvo una novia, pero las cosas salieron mal porque él quería
+compartir todo su sufrimiento con ella, y ella quería salir a bailar. Desde la
+ruptura, Samuel dice abiertamente que quedó muy mal. Le pide a su terapeuta que
+le recete pastillas para la depresión, pero el terapeuta se niega. Así que como
+no consigue recetas psiquiátricas -y nunca la falsificaría, porque él quiere
+vivir como un hombre recto- consume todo tipo de medicamentos naturalistas.
+Tiene un cóctel de pildoras naturalistas que toma en el desayuno, y otras tantas
+que consume a lo largo del día. Le gusta que la gente lo vea tomar las
+pastillas, así que en general no le importa cambiar horarios para tomarlas en
+lugares públicos.
+
 ## 2016-05-16
 
 Samuel es un personaje principalmente inspirado en lo que me pasa en la vida
