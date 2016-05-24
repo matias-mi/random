@@ -1,12 +1,38 @@
 # Altervida
 
+## 2016-05-24
+
+Primer idea de estructura general:
+
+1. El despido
+
+2. La propuesta
+
+3. ?????
+
+## 2016-05-22
+
+Creo que ya sé sobre qué va a tratar la historia: inteligencia artificial.
+Ursula Le Guin, en una conferencia que dio en la entrega de un premio a la
+trayectoria que le otorgaron, llama a escribir con sentido. Escribir con sentido
+es escribir con compromiso social. Como dice un amigo querido, "libetad con
+compromiso social". Quiero hacerme cargo de mi postura política y escribir
+ficción que hable, que interpele y que confronte a quien lea.
+
+Dicho el preámbulo, el tema central es la inteligencia artificial como reemplazo
+de las personas en la mayoría de los tipos de trabajo. Hace tiempo que vengo
+leyendo sobre capitalismo cognitivo y machine learning, pero recién hoy me
+[crucé con un artículo](https://is.gd/z6hIl9) que hace un excelente estado del
+arte y sintetiza los desafíos que tienen los estados capitalistas en un futuro
+cercano. Samuel va a tener que involucrarse en este mundo.
+
 ## 2016-05-19
 
 Samuel va a estar inspirado, definitivamente, en un profesor. Es un hombre de
 estatura media, esbelto y parece una mezcla de rockstar y modelo. Zapatillas de
 lona blancas (sucias), pantalón de jean, saco escote en V con rombos sobre
-remera blanca, campera tipo náutica color verde cieno. Usa una barba candado muy
-bien cuidada y recortada que se une con las patillas. Tiene ojos chicos,
+remera blanca, campera tipo pescador color verde cieno. Usa una barba candado
+muy bien cuidada y recortada que se une con las patillas. Tiene ojos chicos,
 hundidos y muy ojerosos; cejas gruesas y cortas (¿se las depila?). Gestualiza
 mucho con las manos, y cuando habla enfatiza las palabras que quiere destacar
 subiendo el tono de forma muy extraña. Es pesimista -cita filósofos pesimistas
