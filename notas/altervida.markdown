@@ -1,5 +1,21 @@
 # Altervida
 
+## 2016-05-25
+
+Personajes principales y recurrentes:
+
+* Samuel (ya lo presenté más abajo)
+
+* Julio: el jefe de Samuel
+
+* Laura: la ex novia de Samuel
+
+* Luna: la inteligencia artificial reclutadora
+
+* Daniel: el amigo de Samuel
+
+* Victor: la inteligencia artificial
+
 ## 2016-05-24
 
 Primer idea de estructura general:
@@ -8,7 +24,11 @@ Primer idea de estructura general:
 
 2. La propuesta
 
-3. ?????
+3. El plan
+
+4. La emboscada
+
+5. La guerra
 
 ## 2016-05-22
 
