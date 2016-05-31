@@ -4,9 +4,9 @@
 
 Personajes principales y recurrentes:
 
-* Samuel (ya lo presenté más abajo)
+* Samuel Barski (ya lo presenté más abajo)
 
-* Julio: el jefe de Samuel
+* Julio Strawman: el jefe de Samuel
 
 * Laura: la ex novia de Samuel
 
