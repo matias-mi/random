@@ -7,7 +7,7 @@ dormido sobre el brazo derecho bien entrada la madrugada. — La posición de lo
 que lloran —, pensó mientras trataba de recuperar la movilidad del brazo. Se
 levantó y se dirigió a la cocina tambaleando. Sentía la incomodidad de la ropa
 sudada sobre la piel. Puso tres rodajas de pan negro en la tostadora, encendió
-la cafetera y recordó que el café se había terminado hacía tres días. — Hoy
+la cafetera y recordó que el café se había terminado tres días atrás. — Hoy
 definitivamente voy a comprar café —, se dijo con la voluntad de quien se
 enlista en el ejército en un ataque de patriotismo. Fue al baño, se desvistió y
 tiró la ropa sucia sobre la pila que crecía desmesuradamente en un rincón.
@@ -20,8 +20,8 @@ el encargado del edificio dejó en la puerta de su departamento los cuatro
 periódicos que la redacción le había asignado. Samuel salió de la ducha y no
 recordaba si se había lavado el cabello, pero ya no había tiempo. Se vistió con
 lo que encontró limpio, tomó los periódicos de la puerta y como cada mañana los
-tiró sobre la mesa de la cocina tratando de convencerse que si están a la vista
-tal vez los leería. Tomó las tostadas ya frías, las untó con mermelada de
+tiró sobre la mesa de la cocina tratando de convencerse que si estaban a la
+vista tal vez los leería. Tomó las tostadas ya frías, las untó con mermelada de
 damasco y las comió parado mientras leía los titulares de los periódicos. Leer
 periódicos siempre le recordaba cuánto odiaba su trabajo, sobre todo luego de
 que lo confinaran a un trabajo solitario y aburrido como redactor de la versión
@@ -42,12 +42,12 @@ nombre, hasta que los usuarios del periódico lo lapidaron en las redes sociales
 y la redacción tuvo que pedirle que modifique el artículo con la respectiva
 fuente, como si no hubiera pasado nada. Publicó titulares con faltas de
 ortografía que también tuvo que corregir luego de que su jefe le recordara
-frente a todos sus compañeros que no puede escribir un artículo de quinientas
-palabras sin equivocarse. Publicó un artículo controvertido que salió en la
-versión en papel del periódico y deshabilitó los comentarios sin consultar, lo
-que también generó una ráfaga de lectores indignados que acusaron al periódico
-de censura y violación a la libertad de expresión. En un momento de distracción
-colocó una nota de economía política en la categoría de publicidad y
+frente a todos sus compañeros que no era capaz de escribir un artículo de
+quinientas palabras sin equivocarse. Publicó un artículo controvertido que salió
+en la versión en papel del periódico y deshabilitó los comentarios sin
+consultar, lo que también generó una ráfaga de lectores indignados que acusaron
+al periódico de censura y violación a la libertad de expresión. En un momento de
+distracción colocó una nota de economía política en la categoría de publicidad y
 entretenimiento, lo que provocó la burla de medio internet. Finalmente, una
 semana atrás lanzó un artículo sin borrar los comentarios de redacción y durante
 seis horas se pudo leer entre lineas: "chequear esta información, parece falsa".
@@ -96,22 +96,21 @@ mirada de odio. Se prometió que nunca usaría esa aplicación, que nunca caerí
 tan bajo como para buscar pareja por internet. —Es el futuro—, le dijo Daniel en
 esa oportunidad, —buscan por vos a las mujeres que mejor se adaptan a tus
 intereses y necesidades, es como comprar un auto—. Samuel odiaba los autos, y
-por supuesto también odiaba comprar cosas. Esa tarde, sin embargo, se sentía de
-buen humor. Había terminado de copiar los artículos que le asignaron de la
-versión impresa a la versión digital de La Voz de la Ciudad, y podía permitirse
-un almuerzo más largo. Ir a almorzar al parque le levantaba el ánimo. —Las
-personas pasan y me ignoran, como si fuera una columna, o una gárgola rota—,
-pensaba. Por alguna razón esa idea le regalaba un aliviabo momentáneo. Tomó el
-celular y vio Zinder. Pensó en desinstalarlo, pero no pudo. Sentía que algo
-perverso lo congelaba, que una fuerza del más allá estaba jugando con sus
-emociones. —¡No voy a dejar que me destruyas!—, dijo en voz alta, casi
-gritandole al teléfono. Una anciana con un bastón y una bolsa de verduras lo
-miró al pasar, bajó la mirada y negó con la cabeza. Mientras la anciana
-suspiraba y seguía su camino, Samuel abría Zinder en el celular. Un gran botón
-lo invitaba a buscar perfiles de mujeres en sus alrededores. —Aceptar a la
-derecha, descartar a la izquierda—, leyó en voz alta la ayuda que le
-proporcionaba la aplicación. En ese instante, apareció Luna: "¡Es compatible
-contigo! Tú y Luna se gustan".
+también odiaba comprar cosas. Esa tarde, sin embargo, se sentía de buen humor.
+Había terminado de copiar los artículos que le asignaron de la versión impresa a
+la versión digital de La Voz de la Ciudad, y podía permitirse un almuerzo más
+largo. Ir a almorzar al parque le levantaba el ánimo. —Las personas pasan y me
+ignoran, como si fuera una columna, o una gárgola rota—, pensaba. Por alguna
+razón esa idea le regalaba un alivio momentáneo. Tomó el celular y vio Zinder.
+Pensó en desinstalarlo, pero no pudo. Sentía que algo perverso lo congelaba, que
+una fuerza del más allá estaba jugando con sus emociones. —¡No voy a dejar que
+me destruyas!—, dijo en voz alta, casi gritandole al teléfono. Una anciana con
+un bastón y una bolsa de verduras lo miró al pasar, bajó la mirada y negó con la
+cabeza. Mientras la anciana suspiraba y seguía su camino, Samuel abría Zinder en
+el celular. Un gran botón lo invitaba a buscar perfiles de mujeres en sus
+alrededores. —Aceptar a la derecha, descartar a la izquierda—, leyó en voz alta
+la ayuda que le proporcionaba la aplicación. En ese instante, apareció Luna:
+"¡Es compatible contigo! Tú y Luna se gustan".
 
 El mensaje de Luna hizo que Samuel se quedara tieso, repasando en una película
 mental todos los acontecimientos que lo llevaron a conocerla. Una sirena lo
